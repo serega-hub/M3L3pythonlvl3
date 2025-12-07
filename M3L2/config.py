@@ -1,0 +1,2 @@
+token = '8403150402:AAHb2X_7FCDSAvUFiTGpR4tCl2gohRhPlT8'
+DATABASE = 'db.db'
